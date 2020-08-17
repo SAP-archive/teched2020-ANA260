@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA260 - Advanced Planning Features in SAP Analytics Cloud
 
 ## Description
 
