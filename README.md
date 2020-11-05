@@ -17,9 +17,6 @@ Participants will be expected to have some familiarity with the SAP Analytics Cl
 ## Exercises
 Start the exercises [here](exercises/AIN260.pdf).
     
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
