@@ -2,37 +2,21 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called AIN260 - Advanced Planning Features in SAP Analytics Cloud. 
 
 ## Overview
 
-This session introduces attendees to...
+SAP Analytics Cloud provides a rich set of planning capabilities allowing users to design better, more dynamic business models with integrated planning workflows.  This session will focus on advanced plan modeling and calculation logic allowing for the implementation of complex planning and simulation scenarios.
+The session also covers some relevant APIs to address unique and specific planning scenarios in Analytics Designer.
+Participants will be expected to have some familiarity with the SAP Analytics Cloud solution
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+Participants will be expected to have some familiarity with the SAP Analytics Cloud solution.
 
 ## Exercises
-
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Start the exercises [here](exercises/AIN260.pdf).
     
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
 **IMPORTANT**
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
