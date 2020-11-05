@@ -15,7 +15,7 @@ Participants will be expected to have some familiarity with the SAP Analytics Cl
 Participants will be expected to have some familiarity with the SAP Analytics Cloud solution.
 
 ## Exercises
-Start the exercises [here](exercises/AIN260.pdf).
+Start the exercises [here](exercises/ANA260.pdf).
     
 
 ## How to obtain support
