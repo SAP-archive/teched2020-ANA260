@@ -1,5 +1,7 @@
 # ANA260 - Advanced Planning Features in SAP Analytics Cloud
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-ana260)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-ana260)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called AIN260 - Advanced Planning Features in SAP Analytics Cloud. 
